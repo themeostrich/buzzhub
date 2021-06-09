@@ -1,0 +1,186 @@
+
+<h4>Features Pro Vs Free</h4>
+<table>
+    <tbody>
+        <tr>
+            <th>Features Comparison</th>
+            <th>Pro</th>
+            <th>Free</th>
+        </tr>
+        <tr>
+            <td><strong>Responsive Design</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+        </tr>
+        <tr>
+            <td><strong>Demo Import</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+        </tr>
+        <tr>
+            <td><strong>Dark/Light version</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
+        </tr>
+         <tr>
+            <td><strong>Social Menu</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
+        </tr>
+        <tr>
+            <td><strong>Menu Sticky</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
+        </tr>
+         <tr>
+            <td><strong>Custom CSS Option</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+        </tr>
+        <tr>
+            <td><strong>Color Option</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
+        </tr>
+        <tr>
+            <td><strong>Theme Options</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
+        </tr>
+         <tr>
+            <td><strong>Homepage Sortable</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
+        </tr>
+        <tr>
+            <td><strong>Font Option</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
+        </tr>
+        <tr>
+            <td><strong>Enable/Disable Scroll up.</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
+        </tr>
+        <tr>
+            <td><strong>Global Layout</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
+        </tr>
+        <tr>
+            <td><strong>Single Posts customizer setting</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
+        </tr>
+        <tr>
+            <td><strong>Single Page customizer setting</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
+        </tr>
+        <tr>
+            <td><strong>Archive/Blog</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
+        </tr>
+        <tr>
+            <td><strong>Footer options</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
+        </tr>
+        <tr>
+            <td><strong>Enable/Disable footer(Copyright) text</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
+        </tr>
+        <tr>
+            <td><strong>Reset all</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+        </tr>
+        <tr>
+            <td><strong>Footer Widget</strong></td>
+            <td><i class="fa fa-check"></i> (Yes, 4)</td>
+            <td><i class="fa fa-check"></i> (Yes, 4)</td>
+        </tr>
+        <tr>
+            <td><strong>HomePage Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes, 14)</td>
+            <td><i class="fa fa-check"></i> (Yes, 8)</td>
+        </tr>
+         <tr>
+            <td><strong>Each Section Excerpt(Description) length Control</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
+        </tr>
+        <tr>
+            <td><strong>Topbar</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
+        </tr>
+        <tr>
+            <td><strong>Slider Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
+        </tr>
+        <tr>
+            <td><strong>Service Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
+        </tr>
+        <tr>
+            <td><strong>About Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
+        </tr>
+        <tr>
+            <td><strong>Gallery Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
+        </tr>
+        <tr>
+            <td><strong>CTA Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
+        </tr>
+        <tr>
+            <td><strong>Team Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
+        </tr>
+        <tr>
+            <td><strong>Counter Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
+        </tr>
+        <tr>
+            <td><strong>Pricing Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
+        </tr>
+        <tr>
+            <td><strong>Testimonial Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
+        </tr>
+        <tr>
+            <td><strong>Video Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
+        </tr>
+        <tr>
+            <td><strong>Client Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
+        </tr>
+        <tr>
+            <td><strong>Blog Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
+        </tr>
+        <tr>
+            <td><strong>Contact Section</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-times"></i> (No)</td>
+        </tr>
+    </tbody>
+</table>
