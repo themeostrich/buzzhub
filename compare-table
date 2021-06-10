@@ -1,4 +1,3 @@
-
 <h4>Features Pro Vs Free</h4>
 <table>
     <tbody>
@@ -20,10 +19,15 @@
         <tr>
             <td><strong>Dark/Light version</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+        </tr>
+        <tr>
+            <td><strong>Social Menu</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-times"></i> (No)</td>
         </tr>
-         <tr>
-            <td><strong>Social Menu</strong></td>
+        <tr>
+            <td><strong>Topbar Secondary Menu</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-times"></i> (No)</td>
         </tr>
@@ -32,7 +36,7 @@
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-times"></i> (No)</td>
         </tr>
-         <tr>
+        <tr>
             <td><strong>Custom CSS Option</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-check"></i> (Yes)</td>
@@ -40,14 +44,14 @@
         <tr>
             <td><strong>Color Option</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Options: Limited)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
         </tr>
         <tr>
             <td><strong>Theme Options</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
-         <tr>
+        <tr>
             <td><strong>Homepage Sortable</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-times"></i> (No)</td>
@@ -60,7 +64,7 @@
         <tr>
             <td><strong>Enable/Disable Scroll up.</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-times"></i> (No)</td>
+            <td><i class="fa fa-times"></i> (Yes)</td>
         </tr>
         <tr>
             <td><strong>Global Layout</strong></td>
@@ -80,7 +84,7 @@
         <tr>
             <td><strong>Archive/Blog</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Options: Limited)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
         </tr>
         <tr>
             <td><strong>Footer options</strong></td>
@@ -93,11 +97,6 @@
             <td><i class="fa fa-times"></i> (No)</td>
         </tr>
         <tr>
-            <td><strong>Reset all</strong></td>
-            <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Yes)</td>
-        </tr>
-        <tr>
             <td><strong>Footer Widget</strong></td>
             <td><i class="fa fa-check"></i> (Yes, 4)</td>
             <td><i class="fa fa-check"></i> (Yes, 4)</td>
@@ -107,7 +106,7 @@
             <td><i class="fa fa-check"></i> (Yes, 14)</td>
             <td><i class="fa fa-check"></i> (Yes, 8)</td>
         </tr>
-         <tr>
+        <tr>
             <td><strong>Each Section Excerpt(Description) length Control</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-times"></i> (No)</td>
@@ -115,7 +114,7 @@
         <tr>
             <td><strong>Topbar</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Options: Limited)</td>
+            <td><i class="fa fa-times"></i> No)</td>
         </tr>
         <tr>
             <td><strong>Slider Section</strong></td>
@@ -135,7 +134,7 @@
         <tr>
             <td><strong>Gallery Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-times"></i> (No)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>CTA Section</strong></td>
@@ -160,7 +159,7 @@
         <tr>
             <td><strong>Testimonial Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-times"></i> (No)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Video Section</strong></td>
@@ -181,6 +180,11 @@
             <td><strong>Contact Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-times"></i> (No)</td>
+        </tr>
+        <tr>
+            <td><strong>Reset all</strong></td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
+            <td><i class="fa fa-check"></i> (Yes)</td>
         </tr>
     </tbody>
 </table>
